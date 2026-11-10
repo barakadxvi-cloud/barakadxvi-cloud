@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there, I'm David Baraka 👋
+
+-I'm a Software Development Student passionate about building efficient software solutions.
+-I'm currently working on C++ projects (An income stream calculator).
+-I’m currently learning data structures and C++.
+-I'm optimistic about learning more about artificial intelligence; creating models, python and it's framework.
+-I'm open to guidance and collaboration towards learning and gaining exposure in the Ai field.
+-Ask me about anything, where i should improve and focus more on.
+-You can reach me out via Instagram @dxvi.baraka12
+
+## Getting ready for a prosperous tech career
 
 <!--
 **barakadxvi-cloud/barakadxvi-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
